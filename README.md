@@ -1,0 +1,49 @@
+
+### Módulo ES6
+
+- 1 - Introdução ao ES6 
+- 2.1 - Escopo do JS 
+- 2.2 - Variável let no JS 
+- 2.3 - Variável const no JS 
+- 2.4 - Temporal Dead Zone 
+- 3.1 - Introdução a Arrow Function 
+- 3.2 - Arrow Function e o Lexical This 
+- 4.1 - Introdução a Template Literals
+- 4.2 - Usando Template Literals para Html Fragments
+- 4.3 - Tagged Template
+- 5.1 - Shorthand Properties
+- 5.2 - Default Parameters
+- 5.3 - Novos métodos para Strings
+- 6.1 - Array.from()
+- 6.2 - Array.of()
+- 6.3 - Array.find() e Array.findIndex()
+- 6.4 - array.fill()
+- 7.1 - Introdução ao Destructuring
+- 7.2 - Destructuring em Arrays
+- 7.3 - Fazendo swap de variáveis com destructuring
+- 8.1 - Introdução ao Spread Operator
+- 8.2 - Usando o spread dentro de funções
+- 8.3 - Rest params
+- 9.1 - Introdução a Promises
+- 9.2 - Exemplo Real de Promises
+- 9.3 - Manipulando múltiplas Promises
+- 10.1 - Herança Prototipal
+- 10.2 - Criando Classes do ES6
+- 10.3 - Usando extended classes
+- 11.1 - Introdução a Symbols
+- 11.2 - Iterators e Iterables - for...of
+- 12.1 - Introdução a Generators
+- 12.2 - Usando Generators para fluxos assíncronos
+- 13.1 - Introdução ao Proxy
+- 14.1 - Introdução ao Set
+- 14.2 - Introdução ao WeakSet
+- 15.1 - Introdução ao Map
+- 15.2 - Introdução ao WeakMap
+- 16.1 - Introdução a Módulos em JS
+- 16.2 - Configurando o Webpack
+- 16.3 - Trabalhando com Imports no ES6
+- 16.4 - Trabalhando com Exports no ES6
+- 16.5 - UglifyJS no Webpack
+- 16.6 - Variáveis de Ambiente no Webpack
+- 16.7 - Adicionando Sourcemaps em nosso código
+- 16.8 - Inicializando um server com Webpack
